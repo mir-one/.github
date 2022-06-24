@@ -1,2 +1,5 @@
-# .github
-Readme
+![M](/profile/main.png)
+![P](/profile/persents.png)
+![C](/profile/cases.png)
+![H](/profile/hypernetwork.png)
+![A](/profile/attributes.png)
